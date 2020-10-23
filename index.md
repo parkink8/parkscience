@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mr. Park's Webpage for AP Chemistry and AP CSA
 
 You can use the [editor on GitHub](https://github.com/parkink8/parkscience/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
