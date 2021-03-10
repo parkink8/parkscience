@@ -1,8 +1,10 @@
 ## Welcome to Mr. Park's Webpage for AP Chemistry and AP CSA
 
 AP CSA Term 3 Project Top 5
-##[Juhwhan](https://github.com/parkink8/parkscience/edit/gh-pages/index.md) this game will allow you to shoot enemy planes
-##[Seoyun](https://github.com/parkink8/parkscience/edit/gh-pages/index.md) this game is inspired by the movie .....
+
+[Juhwhan](https://github.com/parkink8/parkscience/edit/gh-pages/index.md) this game will allow you to shoot enemy planes
+
+[Seoyun](https://github.com/parkink8/parkscience/edit/gh-pages/index.md) this game is inspired by the movie .....
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
